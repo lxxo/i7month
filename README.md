@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <strong><a href="https://i7month.github.io/">博客</a></strong>
+  <strong><a href="https://i7month.github.io/">博客</a></strong> 
+  <strong><a href="https://www.npmjs.com/package/llo">npm</a></strong>
 </p>
 
 ## 
