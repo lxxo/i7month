@@ -2,11 +2,10 @@
 
 
 <p align="center">
-  <strong><a href="https://i7month.github.io/">我寻思着理想这玩意儿没啥用 就廉价卖给了生活</a></strong>
+  <strong><a href="https://i7month.github.io/">博客</a></strong>
 </p>
 
-
-
+## 
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
