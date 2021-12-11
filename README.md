@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong><a href="https://i7month.github.io/">博客</a></strong>
+  <strong><a href="https://i7month.github.io/">我寻思着理想这玩意儿没啥用 就廉价卖给了生活</a></strong>
 </p>
 
 
